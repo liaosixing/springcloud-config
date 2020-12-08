@@ -1,5 +1,5 @@
 config:
-  master this is config-dev profile  version=1
+  info: master this is config-dev profile  version=1
 
           
           
