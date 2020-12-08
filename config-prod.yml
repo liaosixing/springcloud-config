@@ -1,2 +1,2 @@
 config:
-  master this is config-prod profile  version=1
+  info: master this is config-prod profile  version=1
